@@ -1,0 +1,10 @@
+*.pptx
+*.jpg
+data/questions_clean.json
+data/questions_cleaned.json
+data/slides_text.json
+data/final_master_questions.json
+doctor_style_sample.json
+extracted_slides_text.txt
+mock_exam_output.md
+update_app.py
